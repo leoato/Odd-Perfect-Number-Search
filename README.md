@@ -21,7 +21,7 @@
 
 질량이 서로 다른 세 별($m_1=1.20, m_2=1.44, m_3=1.25$)이 충돌하지 않고 아름답게 공전하는 **'준-안정적 카오스 궤도'**를 발견했습니다. 유전 알고리즘 기반의 확률적 탐색을 통해 단 2번의 시도 만에 이 희귀한 궤도를 포착했습니다.
 
-![Chaos Orbit Visualization](chaos_masterpiece.png)
+![Chaos Orbit Visualization](Figure_1.png)
 *(위 이미지는 코드를 통해 직접 생성한 궤도 시각화 결과입니다)*
 
 ---
